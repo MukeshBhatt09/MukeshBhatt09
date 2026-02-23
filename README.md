@@ -1,6 +1,6 @@
 <h1 align="center">Hello There!👋 I'm</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=5&color=F76B38&center=true&width=435&lines=%F0%9F%8E%8B+Mukesh+Bhatt;%F0%9F%9B%A1%EF%B8%8F+Security+Researcher;%F0%9F%9A%A9+CTF+Player;%F0%9F%AA%96+Army+Brat;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=5&color=F76B38&center=true&width=435&lines=%F0%9F%8E%8B+Mukesh+Bhatt;%F0%9F%9B%A1%EF%B8%8F+Security+Researcher;%F0%9F%9A%A9+CTF+Player;%F0%9F%AA%96+Army+Brat;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Cybersecurity+Enthusiast" alt="Typing SVG" /></a>
 <!--
 **MukeshBhatt09/MukeshBhatt09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
