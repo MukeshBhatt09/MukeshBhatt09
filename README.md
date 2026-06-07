@@ -21,7 +21,7 @@
       <img src="https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif" width="550" height="350">
     </td>
     <td>
-      <img src="https://i.pinimg.com/474x/da/59/70/da597065014ec5866297815c48f30bb8.jpg" width="250" height="350">
+      <img src="https://github.com/user-attachments/assets/c8ab2c3a-1062-478f-8fcb-d183d42757fc" width="250" height="350">
     </td>
   </tr>
   </table>
