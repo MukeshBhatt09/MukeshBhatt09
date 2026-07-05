@@ -4,7 +4,10 @@
       <img src="https://i.pinimg.com/1200x/00/16/f0/0016f0fbbe32a2dac4bb1260e1da5309.jpg" width="250" height="350">
     </td>
     <td>
-      <img src="https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif" width="550" height="350">
+      <img src="https://github.com/user-attachments/assets/2ffc8d2f-3404-45a5-aa4c-8bdbccf62216" width="250" height="350">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/5f0464aa-3b6d-46a6-b3ee-381da774e458" width="250" height="350">
     </td>
   </tr>
 </table>
