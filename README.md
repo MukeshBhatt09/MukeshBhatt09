@@ -7,7 +7,7 @@
       <img src="https://github.com/user-attachments/assets/2ffc8d2f-3404-45a5-aa4c-8bdbccf62216" width="250" height="350">
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/65d17d21-1cc6-4815-b222-8f24a24705a8" width="250" height="350">
+      <img src="https://github.com/user-attachments/assets/3fed73e7-8e80-41d1-be65-ab2d6bca6c29" width="250" height="350">
     </td>
   </tr>
 </table>
